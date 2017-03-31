@@ -6,11 +6,13 @@
 bin/
 buildout.cfg
 develop-eggs/
+develop-src/
 downloads/
 eggs/
 etc/
 parts/
 py27/
+py27_flower/
 /upgrade.py
 .idea/
 # For v8, we locate data_dir in the project directory

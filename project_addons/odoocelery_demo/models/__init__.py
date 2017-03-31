@@ -1,0 +1,1 @@
+import odoocelery_launcher

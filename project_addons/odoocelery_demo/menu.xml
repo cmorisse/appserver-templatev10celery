@@ -1,0 +1,16 @@
+<openerp>
+    <data noupdate="0">
+        <menuitem id="top_menu_odoocelery" name="Odoo Celery" sequence="200" />
+
+            <!-- Transactions -->
+            <menuitem id="menu_odoocelery"
+                      name="Odoo Celery"
+                      sequence="100"
+                      parent="top_menu_odoocelery" />
+                <menuitem id="menu_odoocelery_launcher"
+                          parent="menu_odoocelery"
+                          sequence="100"
+                          action="odoocelery_launcher__act_window" />
+
+    </data>
+</openerp>

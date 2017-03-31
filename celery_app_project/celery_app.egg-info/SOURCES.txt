@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+celery_app/__init__.py
+celery_app.egg-info/PKG-INFO
+celery_app.egg-info/SOURCES.txt
+celery_app.egg-info/dependency_links.txt
+celery_app.egg-info/not-zip-safe
+celery_app.egg-info/top_level.txt
